@@ -42,7 +42,7 @@ llamados a servir
   <header>
     <img src="logo.png" alt="Logo Llamados" class="logo" />
     <h1>llamados a servir</h1>
-    <p>projeto evangelismo co missão na Bolívia</p>
+    <p>projeto evangelismo, missão na Bolívia</p>
   </header>
 
   <main>
