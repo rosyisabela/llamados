@@ -57,7 +57,7 @@ llamados a servir
       <p>
         Quer saber mais? Envie um e-mail ou um direct no instagram para: 
 <strong>llamadosaservir25@gmail.com</strong>
-<strong>llamados25</strong>
+<strong>@llamados25</strong>
       </p>
     </section>
   </main>
